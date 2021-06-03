@@ -5,6 +5,6 @@
 ## Author: Numy
 ## RequiredDeps: BlizzMove,VenturePlan
 ## Version: @project-version@
-## X-Curse-Project-ID: 000000
+## X-Curse-Project-ID: 490528
 
 BlizzMovePlugin_VenturePlan.lua
