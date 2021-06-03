@@ -1,0 +1,10 @@
+## Interface: @toc-version-retail@
+## Interface-Retail: @toc-version-retail@
+## Title: BlizzMove Plugin - Venture Plan
+## Notes: Allows you to move the Venture Plan window with BlizzMove
+## Author: Numy
+## RequiredDeps: BlizzMove,VenturePlan
+## Version: @project-version@
+## X-Curse-Project-ID: 000000
+
+BlizzMovePlugin_VenturePlan.lua
