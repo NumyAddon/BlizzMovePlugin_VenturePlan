@@ -10,7 +10,7 @@ local Plugin = _G.BlizzMovePlugin_VenturePlan;
 local compatible = false;
 if(BlizzMoveAPI and BlizzMoveAPI.GetVersion and BlizzMoveAPI.RegisterAddOnFrames) then
     local _, _, _, versionInt = BlizzMoveAPI:GetVersion()
-    if (versionInt >= 30019 or versionInt == nil) then
+    if (versionInt == nil or versionInt >= 30019) then
         compatible = true;
     end
 end
