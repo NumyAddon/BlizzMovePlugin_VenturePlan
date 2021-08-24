@@ -6,5 +6,6 @@
 ## RequiredDeps: BlizzMove,VenturePlan
 ## Version: @project-version@
 ## X-Curse-Project-ID: 490528
+## X-Wago-ID: LvNAX8Go
 
 BlizzMovePlugin_VenturePlan.lua
