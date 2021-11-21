@@ -47,13 +47,13 @@ local addonTable = {
                 ["CovenantMissionFrame.MissionTab.MissionPage.StartMissionFrame"] = {
                     MinVersion = 90000,
                 },
-                ["CovenantMissionFrameMissions.MaterialFrame"] = {
+                ["CovenantMissionFrame.MissionTab.MissionList.MaterialFrame"] = {
                     MinVersion = 90000,
                 },
-                ["CovenantMissionFrameFollowersListScrollFrameScrollChild"] = {
+                ["CovenantMissionFrame.FollowerList.listScroll"] = {
                     MinVersion = 90000,
                 },
-                ["CovenantMissionFrameFollowers.MaterialFrame"] = {
+                ["CovenantMissionFrame.FollowerList.MaterialFrame"] = {
                     MinVersion = 90000,
                 },
             },
