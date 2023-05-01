@@ -3,6 +3,7 @@
 ## Title: BlizzMove Plugin - Venture Plan
 ## Notes: Allows you to move the Venture Plan window with BlizzMove
 ## Author: Numy
+## IconTexture: 982414
 ## RequiredDeps: BlizzMove,VenturePlan
 ## Version: @project-version@
 ## X-Curse-Project-ID: 490528
