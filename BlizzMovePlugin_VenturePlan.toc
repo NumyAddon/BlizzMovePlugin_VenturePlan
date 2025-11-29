@@ -1,5 +1,5 @@
-## Interface: @toc-version-retail@,@toc-version-midnight@
-## Interface-Retail: @toc-version-retail@,@toc-version-midnight@
+## Interface: @toc-version-retail@,@toc-version-midnight@,120000
+## Interface-Retail: @toc-version-retail@,@toc-version-midnight@,120000
 ## Title: BlizzMove Plugin - Venture Plan
 ## Notes: Allows you to move the Venture Plan window with BlizzMove
 ## Author: Numy
